@@ -1,0 +1,37 @@
+body{
+	background-color: black;
+	font-family: Calibri;
+	color: #5e5c56;
+}
+
+ h1,h2,h3{
+	 color: #c0cb7f;
+	 font-family: arial;
+ }
+
+a{
+	color: #677f51;
+	text-decoration: none;
+}
+
+table{
+	background-color: #222222;
+	border: 1px solid #a64626;
+	width: 250px;
+	border-collapse: collapse;
+	text-align: center;
+	font-weight: bolder;
+}
+
+ul{
+	list-style-type: square;
+}
+
+ol{
+	list-style-type: armenian;
+}
+
+dd{
+	color: #a64626;
+	font-style: italic;
+}
