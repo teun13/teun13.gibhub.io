@@ -1,2 +1,2 @@
-# teun13.gibhub.io
+# teun13.github.io
 website informatica
